@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://getthatone.com/</loc><lastmod>2026-11-09</lastmod><priority>1.0</priority></url>
-<url><loc>https://getthatone.com/all-guides.html</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
-<url><loc>https://getthatone.com/how-we-choose.html</loc><lastmod>2026-11-09</lastmod><priority>0.4</priority></url>
-<url><loc>https://getthatone.com/about-us.html</loc><lastmod>2026-11-09</lastmod><priority>0.3</priority></url>
+<url><loc>https://getthatone.com/</loc><lastmod>2026-11-10</lastmod><priority>1.0</priority></url>
+<url><loc>https://getthatone.com/all-guides.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+<url><loc>https://getthatone.com/how-we-choose.html</loc><lastmod>2026-11-10</lastmod><priority>0.4</priority></url>
+<url><loc>https://getthatone.com/about-us.html</loc><lastmod>2026-11-10</lastmod><priority>0.3</priority></url>
 <url><loc>https://getthatone.com/category/home-appliances.html</loc><lastmod>2026-11-09</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/category/kitchen.html</loc><lastmod>2026-11-07</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/category/sleep.html</loc><lastmod>2026-11-07</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/category/electronics.html</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/category/home-comfort.html</loc><lastmod>2026-11-09</lastmod><priority>0.7</priority></url>
+<url><loc>https://getthatone.com/category/baby-and-kids.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/category/gifts.html</loc><lastmod>2026-11-07</lastmod><priority>0.7</priority></url>
 <url><loc>https://getthatone.com/best/best-55-inch-tv.html</loc><lastmod>2026-11-06</lastmod><priority>0.9</priority></url>
 <url><loc>https://getthatone.com/best/best-robot-vacuum-and-mop.html</loc><lastmod>2026-11-06</lastmod><priority>0.9</priority></url>
@@ -38,11 +39,13 @@
 <url><loc>https://getthatone.com/best/best-75-inch-tv.html</loc><lastmod>2026-11-08</lastmod><priority>0.9</priority></url>
 <url><loc>https://getthatone.com/best/best-bathroom-space-heater.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority></url>
 <url><loc>https://getthatone.com/best/best-heated-drying-rack.html</loc><lastmod>2026-11-09</lastmod><priority>0.9</priority></url>
-<url><loc>https://getthatone.com/buying-quiz.html</loc><lastmod>2026-11-09</lastmod><priority>0.7</priority></url>
-<url><loc>https://getthatone.com/best-value.html</loc><lastmod>2026-11-09</lastmod><priority>0.7</priority></url>
-<url><loc>https://getthatone.com/gifts/</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
-<url><loc>https://getthatone.com/black-friday/</loc><lastmod>2026-11-09</lastmod><priority>0.8</priority></url>
-<url><loc>https://getthatone.com/vs/</loc><lastmod>2026-11-09</lastmod><priority>0.6</priority></url>
+<url><loc>https://getthatone.com/best/best-toys-for-3-year-olds.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+<url><loc>https://getthatone.com/best/best-toys-for-5-year-olds.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+<url><loc>https://getthatone.com/buying-quiz.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+<url><loc>https://getthatone.com/best-value.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+<url><loc>https://getthatone.com/gifts/</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+<url><loc>https://getthatone.com/black-friday/</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+<url><loc>https://getthatone.com/vs/</loc><lastmod>2026-11-10</lastmod><priority>0.6</priority></url>
 <url><loc>https://getthatone.com/vs/lg-c5-oled55c5pua-vs-tcl-qm6k-55qm6k.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://getthatone.com/vs/ninja-dz201-vs-ninja-af101.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
 <url><loc>https://getthatone.com/vs/oxo-brew-8-cup-vs-cuisinart-dcc-3200p1.html</loc><lastmod>2026-10-30</lastmod><priority>0.6</priority></url>
@@ -71,4 +74,6 @@
 <url><loc>https://getthatone.com/vs/hisense-u8-series-75u8qg-vs-tcl-qm7k-75qm7k.html</loc><lastmod>2026-11-08</lastmod><priority>0.6</priority></url>
 <url><loc>https://getthatone.com/vs/dreo-dr-hsh004a-vs-lasko-cd08200.html</loc><lastmod>2026-11-09</lastmod><priority>0.6</priority></url>
 <url><loc>https://getthatone.com/vs/kasydoff-1600w-3-tier-vs-innoka-2-in-1.html</loc><lastmod>2026-11-09</lastmod><priority>0.6</priority></url>
+<url><loc>https://getthatone.com/vs/magna-tiles-classic-32-piece-magnetic-construction-set-vs-melissa-doug-slice-and-bake-wooden-cookie-play-food-set.html</loc><lastmod>2026-11-10</lastmod><priority>0.6</priority></url>
+<url><loc>https://getthatone.com/vs/learning-resources-botley-2-0-the-coding-robot-activity-set-vs-thinkfun-rush-hour-junior-traffic-jam-logic-game.html</loc><lastmod>2026-11-10</lastmod><priority>0.6</priority></url>
 </urlset>
